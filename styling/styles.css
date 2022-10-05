@@ -1,0 +1,18 @@
+h1 {
+  color: red;
+}
+
+@media (min-width: 1008px) {
+  h1 {
+    color: green;
+  }
+
+  .navbar-lists {
+    margin-right: 35px;
+  }
+
+  .navbar-responsiveness {
+    display: flex;
+    justify-content: end;
+  }
+}
