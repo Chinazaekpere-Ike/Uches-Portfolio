@@ -1,12 +1,40 @@
-h1 {
-  color: red;
+body {
+  background: black;
+}
+
+.hero-home {
+}
+
+.hero-home p {
+  font-size: 20px;
+  color: rgba(255, 204, 255, 0.8);
+  margin-bottom: 0px;
+}
+
+.hero-home h1 {
+  margin: 20px 0px;
+  color: white;
+  font-size: 75px;
+}
+
+.hero-home h1 span {
+  color: #f9004d;
+}
+
+.hero-home h2 {
+  color: white;
+  font-size: 25px;
+  margin: 0px 0px 50px;
+}
+
+.nav-bar {
+  background: linear-gradient(black, rgb(64, 63, 63));
+}
+.nav-bar .nav-link {
+  color: pink;
 }
 
 @media (min-width: 1008px) {
-  h1 {
-    color: green;
-  }
-
   .navbar-lists {
     margin-right: 35px;
   }
