@@ -28,6 +28,10 @@ body {
   margin: 0px 0px 50px;
 }
 
+.home-featured-projects {
+  color: #f9004d;
+}
+
 .nav-bar {
   background: linear-gradient(black, rgb(64, 63, 63));
 }
