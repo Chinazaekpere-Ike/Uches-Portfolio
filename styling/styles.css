@@ -2,6 +2,19 @@ body {
   background: black;
 }
 
+.footer-contact-btn {
+  background: #f9004d;
+  color: #fff;
+  border-radius: 30px;
+  padding: 13px 30px;
+}
+
+.footer-contact-me {
+  padding: 30px 120px;
+  border-radius: 4px;
+  background: black;
+}
+
 .hero-home {
   margin: 50px 100px 100px;
 }
