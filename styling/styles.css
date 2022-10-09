@@ -28,8 +28,23 @@ body {
   margin: 0px 0px 50px;
 }
 
-.home-featured-projects {
+.home-featured-projects h3 {
   color: #f9004d;
+}
+
+.home-featured-projects h4 {
+  color: rgba(255, 204, 255, 0.8);
+  font-size: 40px;
+  margin-bottom: 48px;
+}
+
+.home-project-description {
+  padding: 120px 60px;
+}
+
+.home-project-description {
+  margin-bottom: 150px;
+  margin: 0px;
 }
 
 .nav-bar {
